@@ -46,3 +46,31 @@ Programação Funcional
   
   ![](https://github.com/ViniciusSXavier999/Assets/blob/main/JavaUdemy%20-%20Nelio/3%20-%20img3.png)
   
+  <h2> 🛠 PROJETOS REALIZADOS/EM ANDAMENTO DURANTE O CURSO  🛠<h2>
+  
+  🟢 PROJETO
+Sistema jogo de xadrez
+
+  ![](https://github.com/ViniciusSXavier999/Assets/blob/main/JavaUdemy%20-%20Nelio/4%20-%20projeto1.png)
+  
+  🟡 PROJETO
+Aplicação desktop com 
+JavaFX e banco de 
+dados MySQL com JDBC
+
+![](https://github.com/ViniciusSXavier999/Assets/blob/main/JavaUdemy%20-%20Nelio/5%20-%20projeto2.png)
+
+🟡 PROJETO
+Web services com 
+Spring Boot e 
+JPA / Hibernate
+
+![](https://github.com/ViniciusSXavier999/Assets/blob/main/JavaUdemy%20-%20Nelio/6%20-%20projeto3.png)
+
+🟡 PROJETO
+Web services com 
+Spring Boot e 
+NoSQL (MongoDB)
+
+![](https://github.com/ViniciusSXavier999/Assets/blob/main/JavaUdemy%20-%20Nelio/7%20-%20projeto4.png)
+  
